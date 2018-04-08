@@ -1,0 +1,24 @@
+https://elements.heroku.com/buildpacks/jonathanong/heroku-buildpack-ffmpeg-latest
+
+-----------------------------------------------------------------------------------
+
+heroku login
+
+jakcksfakeemails@gmail.com 
+
+Darceyboo30!
+
+
+cd C:\Users\Jack Greenwood\Desktop\PUBLIC DISCORD BOT\Publish Bot
+
+
+heroku git:remote -a cheese-bot-master
+
+
+*MAKE CHANGES*
+
+git add .
+
+git commit -am "make it better"
+
+git push heroku master
